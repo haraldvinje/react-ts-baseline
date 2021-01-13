@@ -11,6 +11,7 @@
 ## Usage
 
 ```
+git clone git@github.com:haraldvinje/react-ts-baseline.git
 cd react-ts-baseline
 npm install 
 npm start
