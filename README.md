@@ -4,7 +4,6 @@
   <img src="https://jordy.app/_next/static/images/header-image-35c957288a5759161d321bcba4423e7f.png" alt="React TypeScript" title="React TypeScript" width="300">
   <br>
 </h1>
-<p align="center" style="font-size: 1.2rem;">Baseline for å bygge prosjekter med basis i React med TypeScript</p>
 
 <hr />
 
